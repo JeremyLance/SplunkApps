@@ -1,0 +1,6 @@
+[savedsearches/CCM%3A%20File%20Ingestion%20Start]
+access = read : [ * ], write : [ power ]
+export = none
+owner = birchard.hayes
+version = 7.1.1
+modtime = 1687291162.835063000
